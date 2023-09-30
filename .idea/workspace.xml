@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9bf85432-028a-4eeb-8264-4920d627d939" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/jokui/rao/alarm_calendar/CalendarModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/jokui/rao/alarm_calendar/CalendarProviderUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/android/src/main/java/com/jokui/rao/alarm_calendar/CalendarModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/android/src/main/java/com/jokui/rao/alarm_calendar/CalendarProviderUtilTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/lib/CalendarColumns.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/lib/TimeZone.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/CalendarColumns.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/TimeZone.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.fvm/flutter_sdk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.fvm/fvm_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/jokui/rao/alarm_calendar/AlarmCalendarPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/jokui/rao/alarm_calendar/AlarmCalendarPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/java/com/jokui/rao/alarm_calendar/CalendarProviderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/java/com/jokui/rao/alarm_calendar/CalendarProviderUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/android/src/main/java/com/jokui/rao/alarm_calendar/AlarmCalendarPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/android/src/main/java/com/jokui/rao/alarm_calendar/AlarmCalendarPlugin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/android/src/main/java/com/jokui/rao/alarm_calendar/CalendarProviderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/android/src/main/java/com/jokui/rao/alarm_calendar/CalendarProviderUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/example/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/lib/alarm_calendar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/lib/alarm_calendar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/lib/alarm_calendar_plugin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/alarm_calendar/lib/alarm_calendar_plugin.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/alarm_calendar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/alarm_calendar.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/alarm_calendar_plugin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/alarm_calendar_plugin.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="sqgd4y98" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1vJMJAkK9DwtEXJtjEKmCXilix2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,15 +42,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "dart.analysis.tool.window.visible": "false",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,44 +65,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="614" height="466" key="DebuggerActiveHint" timestamp="1640498364037">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="614" height="466" key="DebuggerActiveHint/0.25.1680.1025@0.25.1680.1025" timestamp="1640498364037" />
-    <state width="1599" height="326" key="GridCell.Tab.0.bottom" timestamp="1640500263515">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1599" height="326" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1640500263515" />
-    <state width="1599" height="326" key="GridCell.Tab.0.center" timestamp="1640500263514">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1599" height="326" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1640500263514" />
-    <state width="1599" height="326" key="GridCell.Tab.0.left" timestamp="1640500263508">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1599" height="326" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1640500263508" />
-    <state width="1599" height="326" key="GridCell.Tab.0.right" timestamp="1640500263515">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1599" height="326" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1640500263515" />
-    <state width="1599" height="326" key="GridCell.Tab.1.bottom" timestamp="1640500273109">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1599" height="326" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1640500273109" />
-    <state width="1599" height="326" key="GridCell.Tab.1.center" timestamp="1640500273107">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1599" height="326" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1640500273107" />
-    <state width="1599" height="326" key="GridCell.Tab.1.left" timestamp="1640500273107">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1599" height="326" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1640500273107" />
-    <state width="1599" height="326" key="GridCell.Tab.1.right" timestamp="1640500273108">
-      <screen x="0" y="25" width="1680" height="1025" />
-    </state>
-    <state width="1599" height="326" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1640500273108" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -131,5 +86,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
