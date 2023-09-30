@@ -127,10 +127,20 @@ bool bool_false = false;
     // event.URL = [NSURL URLWithString:@"AAA://https://www.baidu.com"];
     
     // 添加闹钟结合（开始前多少秒）若为正则是开始后多少秒。
-    EKAlarm *elarm2 = [EKAlarm alarmWithRelativeOffset:-20];
-    [event addAlarm:elarm2];
-    EKAlarm *elarm = [EKAlarm alarmWithRelativeOffset:-10];
-    [event addAlarm:elarm];
+    if(dic[@"alert"] != nil || [dic[@"alert"] count] > 0) {
+     for(int i = 0; i < [dic[@"alert"] count]; i ++) {
+        int offset = [dic[@"alert"][i] intValue];
+        EKAlarm *elarm = [EKAlarm alarmWithRelativeOffset:offset];
+        [event addAlarm:elarm];
+     }
+    } else {
+      EKAlarm *elarm = [EKAlarm alarmWithRelativeOffset:-60 * 5];
+      [event addAlarm:elarm];
+    }
+//    EKAlarm *elarm2 = [EKAlarm alarmWithRelativeOffset:-20];
+//    [event addAlarm:elarm2];
+//    EKAlarm *elarm = [EKAlarm alarmWithRelativeOffset:-10];
+//    [event addAlarm:elarm];
     
     BOOL creatStatus = [[EventManger shareInstance] createEvent:event];
     
