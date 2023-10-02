@@ -106,7 +106,8 @@ bool bool_false = false;
     EKEvent *event = [EKEvent eventWithEventStore:[[EventManger shareInstance] store]];
     
     event.title = dic[@"title"];
-    event.location = dic[@"note"];
+    event.location = dic[@"location"];
+    event.notes = dic[@"note"];
     
     // NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
     // [formatter setDateFormat:@"yyyy-MM-dd HH:mm:ss"];

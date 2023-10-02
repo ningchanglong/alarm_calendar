@@ -11,6 +11,8 @@ class Calendars {
   //标题参数
   String _title;
 
+  String _location;
+
   //备注
   String _note;
 
@@ -47,11 +49,13 @@ class Calendars {
 
   Calendars(DateTime startTime, DateTime endTime,
       [String title = 'title',
+      String location = 'location',
       String note = 'note',
       List<int>? alert,
       String eventId = '-1',
       int allDay = 0])
       : _title = title,
+        _location = location,
         _note = note,
         _alert = alert,
         _eventId = eventId,
@@ -69,6 +73,8 @@ class Calendars {
   //  get方法
   String get getTitle => _title;
 
+  String get getLocation => _location;
+
   String get getNote => _note;
 
   List<int>? get getAlert => _alert;
@@ -84,6 +90,8 @@ class Calendars {
   //set方法
 
   set setTitle(String title) => this._title = title;
+
+  set setLocation(String location) => this._location = location;
 
   set setNote(String note) => this._note = note;
 

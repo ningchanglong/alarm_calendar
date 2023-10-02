@@ -23,6 +23,7 @@ class _MyAppState extends State<MyApp> {
       new DateTime.now(),
       new DateTime.now().add(new Duration(days: 1)),
       '测试通知',
+      'location',
       '测试通知描述',
       [5],
       '1',
